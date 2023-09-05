@@ -50,4 +50,6 @@
 
 ## ❤️ Let's get connected:
 
-<p><a href="https://reemers.github.io/portfolio-reem/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Reem.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a>  <a href="www.linkedin.com/in/reem-i-devtool/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
+<p><a href="https://reemers.github.io/portfolio-reem/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Reem.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a>
+ 
+ <a href="www.linkedin.com/in/reem-i-devtool" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
