@@ -1,12 +1,6 @@
 ### Hi there 👋
 
-<!--
-**reemers/reemers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-### 👨🏻‍💻 About Me:
-
-
+### 👨🏻‍💻 About Me
 
 - 🙋‍♂️ All about me is at **[My Website](https://reemers.github.io/portfolio-reem/)**
 - 🔭 I’m currently working on `something interesting`!
@@ -17,6 +11,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: (reemdevtool@gmail.com)
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 - ⚡ Fun fact: I spend most of my free time rowing
+
+
+<!--
+**reemers/reemers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+
+
+
 -->
 ## 🛠️ Technologies and Tools I use:
 
@@ -46,4 +50,4 @@ Here are some ideas to get you started:
 
 ## ❤️ Let's get connected:
 
-<p><a href="https://reemers.github.io/portfolio-reem/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Soumyajit.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a>  <a href="www.linkedin.com/in/reem-i-devtool" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
+<p><a href="https://reemers.github.io/portfolio-reem/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Reem.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a>  <a href="www.linkedin.com/in/reem-i-devtool/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
