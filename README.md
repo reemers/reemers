@@ -4,7 +4,7 @@
 
 - 🙋‍♂️ All about me is at **[My Website](https://reemers.github.io/portfolio-reem/)**
 - 🔭 I’m currently working on `something interesting`!
-- 🌱 I’m currently learning `Next.js`
+- 🌱 I’m currently learning `Node.js`
 - 👯 I’m looking to collaborate on `Dev projects`
 - 🤔 I’m looking for help with `Competitive Programming`
 - 💬 Ask me about `react.js`
